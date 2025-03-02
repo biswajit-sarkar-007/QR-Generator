@@ -1,3 +1,12 @@
+
+### this is a simple qr code generator app 
+tech stack: next js, shadcn, file-saver,html to img, qr-code this liberies
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
