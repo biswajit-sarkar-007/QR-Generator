@@ -4,9 +4,11 @@ tech stack: next js, shadcn, file-saver,html to img, qr-code this liberies
 
 
 
-![WhatsApp Image 2025-03-03 at 04 08 29_60f70193](https://github.com/user-attachments/assets/6a03b66c-7bdc-46de-830c-03060e0bcec4)
 
-![WhatsApp Image 2025-03-03 at 04 10 10_c91acadf](https://github.com/user-attachments/assets/17f7c203-360a-4baa-8d0a-1541eec57536)
+ ![WhatsApp Image 2025-03-03 at 04 20 34_728bf7d9](https://github.com/user-attachments/assets/2fee233d-c80c-4f54-a23a-ff3871dc1c63)
+
+ ![WhatsApp Image 2025-03-03 at 04 20 00_e478e042](https://github.com/user-attachments/assets/249d8351-f5c2-4c94-9e36-36b148c6d150)
+
 
 
 
