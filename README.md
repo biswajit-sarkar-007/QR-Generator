@@ -1,6 +1,11 @@
+this is QR code generator app it will generate qr with specific link or emiail or message and you will add background or the color of the url according to your preference .
 
-### this is a simple qr code generator app 
-tech stack: next js, shadcn, file-saver,html to img, qr-code this liberies
+
+## this is a simple qr code generator app 
+
+
+# tech stack:
+next js, shadcn, file-saver,html to img, qr-code this liberies
 
 
 
